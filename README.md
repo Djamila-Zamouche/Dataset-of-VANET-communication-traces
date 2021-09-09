@@ -15,3 +15,7 @@ The dataset has the following fields:
 
 
 
+References
+- Carneiro G. (2010) “Ns-3: Network simulator 3,” in UTM Lab Meeting April, 20:4–5.
+- (Feb. 28, 2021). OpenStreetMap. [Online]. Available: http://www.openstreetmap.org 46. 
+- (Feb. 28, 2021). Simulation of Urban Mobility (SUMO). [Online]. Available: http://sumo.sourceforge.net
